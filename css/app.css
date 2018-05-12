@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+header, section, article, aside, footer, audio, video, dataset, figure, figcaption, main {
+    display: block;
+    margin: 0;
+}
