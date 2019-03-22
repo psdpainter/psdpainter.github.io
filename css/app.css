@@ -8,3 +8,7 @@ header, section, article, aside, footer, audio, video, dataset, figure, figcapti
     display: block;
     margin: 0;
 }
+
+h1 {
+    font-size: 4rem;
+}
