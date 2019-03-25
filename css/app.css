@@ -35,3 +35,12 @@ h1, h2, h3, h4 {
     margin-left: 4rem;
     margin-right: 4rem;
 }
+
+.grid {
+    display: grid;
+    grid-gap: 2rem;
+}
+
+.grid-header {
+    grid-template-columns: repeat(4, 1fr);
+}
