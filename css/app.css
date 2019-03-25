@@ -24,3 +24,12 @@ header, section, article, aside, footer, audio, video, dataset, figure, figcapti
 h1, h2, h3, h4 {
     margin: 0;
 }
+
+.main {
+    max-width: 1920px;
+}
+
+.container {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
