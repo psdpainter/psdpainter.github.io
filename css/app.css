@@ -35,6 +35,11 @@ h1, h2, h3, h4 {
     margin-right: 4rem;
 }
 
+section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 .grid {
     display: grid;
     grid-gap: 2rem;
