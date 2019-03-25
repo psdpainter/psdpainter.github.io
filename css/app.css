@@ -42,9 +42,15 @@ section {
 
 .grid {
     display: grid;
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 2rem;
 }
 
-.grid-header {
-    grid-template-columns: repeat(4, 1fr);
+    .grid-header {
+        padding-top: .5rem;
+        padding-bottom: .5rem;
+    }
+
+.grid-header h4 {
+    border-top: 2px solid black;
 }
