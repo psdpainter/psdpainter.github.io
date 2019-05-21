@@ -1,2 +1,2 @@
 # psdpainter.github.io
-psdpainter resume.
+Resume and assets.
